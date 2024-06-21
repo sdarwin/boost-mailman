@@ -14,6 +14,7 @@ Boost-users: Boost Users mailing list
 ## Configure Lists
 
 Recommended changes. After creating a list in the UI, make the following updates to the list:  
+Settings -> List Identity -> Subject prefix -> [boost] (lower case to match previous list, and fix 'new subject' line)  
 Settings -> DMARC mitigations -> DMARC mitigation action -> Replace From with list address. Save changes.  
 Settings -> Alter messages -> Reply goes to list -> Reply goes to list  
 Settings -> Alter messages -> Filter Content -> Yes  
